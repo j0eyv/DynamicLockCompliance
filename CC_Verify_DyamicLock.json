@@ -1,0 +1,16 @@
+{
+    "Rules":[ 
+    { 
+       "SettingName":"EnableGoodbye",
+       "Operator":"IsEquals",
+       "DataType":"Int64",
+       "Operand":"1",
+       "MoreInfoUrl":"https://joeyverlinden.com",
+       "RemediationStrings":[{ 
+             "Language":"en_US",
+             "Title":"Dynamic Lock state",
+             "Description": "Our corporate compliance policy requires dynamic lock to be enabled."
+            }]
+     }
+            ]
+}  
